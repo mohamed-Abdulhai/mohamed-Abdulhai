@@ -35,9 +35,11 @@ Today I focus on learning and building **data pipelines, batch processing system
 ---
 ## Certifications
 
-### (IBM Data Engineering Professional Certificate) 
+### IBM Data Engineering Professional Certificate
 #### Issued by: IBM / Coursera
-https://coursera.org/share/7c4425a6a042fa1e093f3878b6996765
+
+🔗 https://coursera.org/share/7c4425a6a042fa1e093f3878b6996765
+
 ![plot](./images/IBM%20Data%20Engineering.jpg)
 ---
 
