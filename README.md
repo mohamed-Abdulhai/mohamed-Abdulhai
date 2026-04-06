@@ -18,14 +18,9 @@ Today I focus on learning and building **data pipelines, batch processing system
 **Data Engineering**
 - Apache Spark
 - PySpark
-- Apache Airflow
-- Apache Kafka
-- dbt
 
 **Data Platforms**
 - Databricks
-- Snowflake
-- Microsoft Fabric
 
 **Tools**
 - Docker
@@ -74,16 +69,7 @@ I am currently focusing on improving my knowledge in:
 
 ---
 
-## Goals
-
-My goal is to become a **professional Data Engineer** working on scalable data systems that support analytics and machine learning.
-
----
-
 ## Connect With Me
-
-GitHub  
-https://github.com/mohamed-Abdulhai
 
 LinkedIn  
 https://linkedin.com/in/mohmmed-a-154741125
